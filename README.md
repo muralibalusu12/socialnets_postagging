@@ -3,7 +3,7 @@ Code for the paper [Stylistic Variation in Part of Speech Tagging](https://www.c
 
 ## Dependencies
 - python 3.4 and above (2.7 should also work fine)
-- dynet 1.0 (2.0 also works fine)
+- [dynet](http://dynet.readthedocs.io/en/latest/tutorial.html) 1.0 (2.0 also works fine)
 - scipy
 - matplotlib
 - [emoji](https://pypi.org/project/emoji/)
@@ -32,7 +32,7 @@ If you use this code, please cite our paper:
   author = {Murali Raghu Babu Balusu and Taha Merghani and Jacob Eisenstein},
   booktitle = {Proceedings of {NAACL} workshop on stylistic variation},
   year = {2018},
-  url = {../papers/social-attention-naacl-style-2018.pdf}
+  url = {https://www.cc.gatech.edu/~jeisenst/papers/social-attention-naacl-style-2018.pdf}
 }
 ```
 
