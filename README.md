@@ -1,5 +1,5 @@
 # POS Tagging using Social Networks
-Code for the paper [Stylistic Variation in Part of Speech Tagging](https://www.cc.gatech.edu/~jeisenst/papers/social-attention-naacl-style-2018.pdf)
+Code for the paper [Stylistic Variation in Part of Speech Tagging](https://www.cc.gatech.edu/~jeisenst/papers/social-attention-naacl-style-2018.pdf).      
 The dataset used in the paper is from [here](https://github.com/brendano/ark-tweet-nlp).
 
 ## Dependencies
