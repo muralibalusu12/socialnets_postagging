@@ -1,0 +1,3360 @@
+members NNS NN 
+of IN RP RB 
+the DT NNP JJ VBP NN 
+and CC NNP 
+that IN WDT DT RB VBP NN 
+would MD 
+how WRB 
+new JJ 
+can MD NN 
+raise VB NN VBP 
+capital NN JJ 
+, , 
+another DT 
+potential JJ NN 
+to TO IN 
+sale NN 
+sick JJ 
+. . 
+include VBP VB 
+( ( 
+) ) 
+from IN 
+raising VBG NN 
+working VBG NN JJ 
+by IN RP RB 
+having VBG 
+an DT , 
+bank NN VB VBP 
+or CC 
+issue NN VB VBP 
+n't RB 
+be VB VBP 
+counted VBN VBD 
+on IN RP RB 
+federal JJ 
+only RB JJ 
+unless IN 
+specific JJ NN 
+congressional JJ 
+' POS '' : 
+is VBZ NNS 
+far RB JJ 
+more JJR RBR JJ 
+than IN RBR 
+direct JJ VB RB 
+'' '' 
+said VBD VBN 
+chief JJ NN 
+plan NN VBP VB 
+in IN RP RB FW RBR 
+law NN 
+includes VBZ 
+$ $ 
+30 CD 
+issued VBN VBD JJ 
+system NN 
+was VBD 
+order NN VB 
+keep VB VBP 
+spending NN VBG JJ 
+20 CD NNP 
+raised VBD VBN 
+through IN RP RB JJ 
+bonds NNS 
+which WDT 
+pay VB NN VBP 
+rates NNS VBZ 
+also RB 
+bad JJ RB 
+are VBP NNP 
+sold VBN VBD 
+until IN 
+paid VBN VBD JJ 
+off RP IN RB JJ 
+as IN RB JJ 
+leaving VBG NN 
+for IN RP RB 
+at IN NN RP 
+50 CD 
+including VBG 
+over IN RP RB JJ 
+10 CD 
+years NNS 
+a DT SYM FW NNP LS 
+problem NN 
+has VBZ VBN 
+director NN 
+already RB 
+spent VBD VBN JJ 
+selling VBG NN JJ 
+it PRP 
+likely JJ RB 
+sell VB VBP NN JJ 
+time NN VB 
+other JJ 
+he PRP 
+forced VBN VBD JJ 
+could MD 
+have VBP VB JJ VBN 
+wait VB NN VBP 
+we PRP VBP 
+those DT 
+before IN RB RP 
+move NN VB VBP 
+forward RB RP VB JJ 
+complicated VBN JJ VBD 
+huge JJ 
+fight NN VB VBP 
+does VBZ 
+allow VB VBP 
+up RP RB IN JJ NNP 
+5 CD 
+any DT RB 
+says VBZ 
+may MD 
+not RB 
+but CC IN RB 
+figure NN VB VBP 
+after IN RB 
+market NN VB VBP 
+value NN VBP VB 
+holds VBZ 
+did VBD 
+public JJ NN 
+say VBP VB NN UH NNP 
+been VBN VBP 
+keeping VBG 
+like IN VB JJ VBP 
+one CD NN PRP 
+seems VBZ 
+me PRP FW 
+sort NN VB RB 
+going VBG JJ NN 
+price NN VB VBP 
+if IN 
+they PRP 
+want VBP VB 
+kind NN RB JJ 
+will MD NN VB 
+hold VB VBP NN 
+hearing NN VBG 
+next JJ IN RB 
+about IN RB RP JJ RBR 
+see VB VBP 
+works VBZ NNS 
+heels NNS 
+followed VBN VBD JJ 
+few JJ 
+big JJ 
+out RP IN RB JJ NN 
+ads NNS 
+message NN 
+: : 
+just RB JJ 
+fine JJ NN VB 
+clients NNS 
+individual JJ NN 
+investors NNS 
+droves NNS 
+crash NN VB JJ 
+days NNS NN 
+major JJ NN 
+rushed VBD VBN 
+calm VB JJ NN 
+around IN RB RP 
+moving VBG JJ NN 
+even RB JJ VB RP 
+faster RBR JJR 
+commercial JJ NN 
+4 CD LS 
+p.m. NN RB 
+yesterday NN RB 
+had VBD VBN 
+air NN VB 
+last JJ VB RB NN VBP 
+night NN RB 
+wrote VBD 
+ad NN FW 
+today NN RB 
+afternoon NN 
+running VBG NN JJ 
+them PRP DT 
+during IN 
+tomorrow NN 
+broadcast NN VBN VB VBD 
+decided VBD VBN 
+when WRB 
+& CC SYM 
+were VBD 
+strategies NNS 
+learned VBD VBN 
+lesson NN 
+phone NN VBP 
+panic NN VB 
+ready JJ 
+example NN 
+prepared VBN JJ VBD 
+several JJ 
+months NNS 
+ago RB IN 
+case NN 
+went VBD 
+into IN 
+its PRP$ 
+free JJ VB RB VBP 
+fall NN VB VBP 
+investment NN JJ 
+ordered VBD VBN 
+full JJ RB 
+pages NNS 
+half NN PDT DT JJ RB 
+dozen NN 
+automated VBN JJ 
+beneath IN 
+many JJ DT RB PDT VB 
+know VB VBP 
+received VBD VBN JJ 
+double JJ VB RB VBP 
+usual JJ RB 
+volume NN 
+calls VBZ NNS 
+weekend NN 
+lot NN RB 
+investor NN 
+comes VBZ 
+fact NN 
+speak VB VBP 
+us PRP 
+absolutely RB 
+too RB 
+late JJ RB 
+think VBP VB NN 
+ahead RB RP 
+goes VBZ 
+step NN VB VBP 
+stay VB VBP NN 
+with IN RP RB 
+past JJ NN IN RB 
+week NN 
+all DT PDT RB 
+need VBP NN VB MD 
+their PRP$ 
+help VB NN VBP 
+against IN 
+name NN VB VBP 
+able JJ 
+quickly RB 
+thanks NNS 
+aftermath NN 
+getting VBG 
+down RB RP IN JJ RBR VBP NN 
+fast RB JJ 
+enough RB JJ NN 
+under IN JJ RB 
+agree VB VBP 
+features NNS VBZ 
+most JJS RBS RB 
+offers VBZ NNS 
+view NN VBP VB 
+here RB 
+normal JJ RB 
+... : 
+feel VB VBP NN 
+stock NN VB JJ 
+still RB JJ 
+place NN VB VBP 
+appreciation NN 
+spot NN VB JJ 
+three CD 
+times NNS CC 
+who WP 
+money NN 
+saying VBG NN 
+worst JJS 
+thing NN 
+anyone NN 
+do VBP VB 
+go VB VBP NN 
+everything NN 
+drives NNS VBZ 
+prices NNS VBZ 
+you PRP 
+liked VBD VBN 
+true JJ 
+changed VBN VBD JJ 
+then RB IN JJ 
+closing NN VBG 
+points NNS VBZ 
+make VB VBP NN 
+response NN 
+news NN 
+since IN RB 
+run VB VBN NN VBP VBD 
+debut NN VB 
+campaign NN 
+meeting NN VBG 
+this DT RB NN 
+point NN VBP VB JJ 
+anything NN 
+needs VBZ NNS 
+; : 
+taking VBG NN 
+marketing NN VBG JJ 
+create VB VBP 
+seen VBN 
+effective JJ NN 
+ran VBD 
+must MD 
+try VB VBP NN 
+hardest JJS RBS 
+prove VB VBP 
+work NN VB VBP 
+former JJ NN 
+small JJ 
+shop NN VB 
+his PRP$ PRP 
+post NN VB IN JJ 
+title NN 
+handle VB VBP 
+million CD JJ 
+account NN VBP VB 
+special JJ NN 
+business NN 
+use NN VB VBP 
+crisis NN 
+ever RB 
+magazine NN 
+52 CD 
+corporate JJ 
+gross JJ 
+grants NNS VBZ 
+innovative JJ 
+teachers NNS 
+what WP WDT 
+? . 
+1 CD LS 
+why WRB 
+well RB NN UH JJ 
+rather RB 
+2 CD LS , 
+possible JJ RB 
+lake NN 
+two CD 
+feet NNS 
+deep JJ RB 
+3 CD LS NNP 
+monkeys NNS 
+rock NN VB 
+game NN 
+long JJ RB 
+sport NN 
+mean VB VBP JJ NN 
+caught VBN VBD 
+team NN VB 
+held VBN VBD JJ 
+games NNS 
+gang NN 
+done VBN RB 
+year NN 
+much JJ RB 
+some DT RB 
+catching VBG 
+cool VB JJ NN VBP 
+evening NN 
+perpetual JJ 
+hit VBD VBN NN VB VBP 
+four CD 
+lead VB NN JJ VBP 
+where WRB 
+home NN RB 
+position NN VB 
+get VB VBP 
+your PRP$ 
+take VB VBP NN 
+good JJ NN RB 
+happen VB VBP 
+later RB RBR JJ JJR 
+quite RB PDT 
+boys NNS 
+green JJ NN 
+gold NN JJ 
+away RB RP 
+pain NN 
+no DT RB UH 
+doubt NN VBP VB RB 
+future JJ NN 
+first JJ RB NN LS JJS 
+hits NNS VBZ 
+series NN NNS 
+gone VBN 
+6 CD 
+9 CD 
+bottom NN JJ 
+got VBD VBN VBP 
+11 CD NNP 
+decision NN 
+five CD 
+zero CD NN VBP VB 
+side NN JJ VBP VB 
+mark NN VB VBP 
+plus CC IN NN JJ RB 
+wins VBZ NNS 
+coming VBG JJ 
+way NN RB 
+behaving VBG 
+might MD NN 
+same JJ 
+early JJ RB 
+innings NNS NN 
+contest NN 
+guy NN 
+put VB VBD VBN NN VBP JJ 
+there EX RB 
+better JJR RBR RB VB JJ 
+manager NN 
+looks VBZ NNS 
+tonight NN RB 
+none NN 
+29 CD 
+took VBD 
+win VB VBP NN 
+average JJ NN VBP VB 
+fans NNS 
+sat VBD VBN 
+seats NNS VBZ 
+while IN NN VB 
+favorites NNS 
+opposition NN 
+advanced VBD JJ VBN 
+least JJS RBS 
+folks NNS 
+wearing VBG 
+colors NNS 
+both DT CC PDT CD 
+teams NNS 
+because IN RB 
+lost VBD VBN JJ 
+love NN VBP VB 
+represents VBZ 
+either CC DT RB 
+choose VB VBP 
+believe VBP VB 
+although IN 
+probably RB 
+everyone NN 
+somewhere RB 
+else RB JJ NN 
+between IN RB 
+hey UH 
+police NN NNS VB 
+every DT 
+separate JJ VB VBP 
+gave VBD 
+besides IN 
+couple NN JJ 
+season NN 
+surgery NN 
+flawless JJ 
+along IN RB RP 
+second JJ NN RB LS 
+final JJ 
+tally NN 
+reputation NN 
+fan NN 
+agreed VBD VBN JJ 
+turn VB NN VBP RB 
+ball NN 
+him PRP 
+return NN VB VBP JJ 
+autograph NN VB 
+hot JJ 
+smoked VBD 
+six CD 
+walks VBZ NNS 
+eight CD 
+walking VBG NN 
+stealing VBG 
+base NN JJ VBP VB 
+cold JJ NN 
+guys NNS 
+set VBN VBD VB NN VBP JJ 
+numbers NNS 
+gives VBZ 
+hope NN VBP VB 
+come VB VBN VBP VBD 
+coach NN 
+old JJ 
+wisely RB 
+prediction NN 
+never RB 
+back RB RP NN JJ VB VBP 
+baseball NN 
+reported VBD VBN JJ 
+drop NN VB VBP 
+net JJ NN VB 
+intense JJ 
+caused VBN VBD 
+profit NN VB 
+quarter NN 
+fell VBD JJ NN VBN 
+expected VBN VBD JJ VB 
+dropped VBD VBN 
+share NN VB VBP 
+company NN 
+shares NNS VBZ 
+computer NN 
+outside IN JJ NN RB 
+effect NN VB 
+stronger JJR RBR 
+dollar NN 
+affect VB VBP NN 
+performance NN 
+revenue NN 
+markets NNS VBZ 
+orders NNS 
+12 CD 
+13 CD 
+part NN JJ VB 
+customers NNS 
+general JJ NN 
+retail JJ NN VB VBP 
+financial JJ 
+areas NNS 
+economy NN 
+generally RB 
+analyst NN 
+strong JJ RB 
+should MD 
+current JJ NN 
+75 CD 
+cents NNS 
+close VB NN RB JJ VBP 
+57 CD 
+article NN 
+finally RB 
+tuning VBG 
+hard JJ RB 
+facts NNS 
+real JJ RB NN 
+world NN 
+serious JJ 
+practice NN VB 
+ability NN 
+best JJS RBS RB 
+sales NNS JJ 
+force NN VB VBP 
+based VBN VBD 
+made VBN VBD 
+stop VB NN VBP 
+professional JJ NN 
+thought VBD VBN NN 
+sense NN VBP VB 
+trader NN 
+a.m. NN RB 
+hours NNS 
+morning NN 
+strategy NN 
+reach VB VBP NN 
+office NN 
+woken VBN 
+hour NN 
+-- : 
+looking VBG 
+opportunities NNS 
+buy VB VBP NN JJ 
+nobody NN 
+wants VBZ 
+stick VB VBP NN 
+traders NNS 
+day NN 
+started VBD VBN 
+lunchtime NN 
+fever NN 
+ended VBD VBN 
+rally NN VB VBP 
+sigh NN 
+especially RB 
+eyes NNS 
+clue NN 
+fallout NN 
+officially RB 
+left VBN VBD JJ NN RB 
+mixed JJ VBN 
+room NN 
+edge NN VB 
+barometer NN 
+falling VBG NN 
+rising VBG JJ NN 
+7 CD 
+native JJ NN 
+played VBD VBN 
+seeking VBG 
+avoid VB VBP 
+risk NN VB VBP 
+heads VBZ NNS 
+very RB JJ 
+tight JJ RB 
+book NN VB 
+trying VBG 
+match VB NN VBP 
+takeover NN 
+pretty RB JJ 
+came VBD 
+15 CD VBN 
+minutes NNS 
+cigarette NN 
+let VB VBD VBP VBN 
+pick VB NN VBP 
+little JJ RB 
+punched VBD VBN 
+button NN 
+call VB NN VBP JJ 
+screen NN VB 
+dealers NNS 
+quotes NNS VBZ 
+putting VBG 
+buyer NN 
+changing VBG JJ NN 
+temporarily RB 
+search NN VBP VB 
+wanting VBG 
+opinion NN 
+own JJ VB VBP 
+break VB NN VBP 
+dangerous JJ 
+almost RB 
+weak JJ 
+right NN JJ RB 
+stone NN 
+pit NN VB 
+standing NN VBG JJ 
+wine NN 
+bar NN VB 
+watched VBN VBD JJ 
+low JJ NN RB 
+8 CD 
+traded VBN VBD JJ 
+bets NNS 
+open JJ VB VBP RB RP NN 
+center NN JJ VBP RB 
+floor NN 
+soon RB 
+60 CD NNP 
+saw VBD NN 
+opportunity NN 
+bought VBD VBN 
+expect VBP VB IN 
+bid NN VB VBD VBN VBP 
+contract NN VB VBP 
+wild JJ RB 
+posted VBD VBN JJ 
+loss NN 
+gain NN VB VBP 
+! . 
+buying VBG NN JJ 
+worth JJ NN IN 
+high JJ NN RB 
+people NNS NN 
+chance NN VBP 
+wrong JJ RB NN 
+once RB IN 
+things NNS 
+such JJ PDT 
+approved VBN VBD JJ 
+give VB VBP 
+authority NN 
+review NN VB VBP 
+approve VB VBP 
+airlines NNS 
+quick JJ RB 
+action NN 
+voice NN VB 
+vote NN VB VBP 
+taken VBN 
+administration NN 
+shot NN VBD VBN 
+letter NN 
+effort NN 
+deal NN VB VBP 
+deputy NN JJ 
+sent VBD VBN 
+present JJ VB NN RB VBP 
+form NN VB VBP 
+excuse NN VB 
+particular JJ NN RB 
+situation NN 
+examples NNS 
+reasons NNS VBZ 
+efforts NNS 
+push VB NN VBP 
+track NN VB VBP 
+safety NN VB 
+measures NNS VBZ 
+certificate NN 
+official NN JJ 
+considers VBZ 
+add VB VBP 
+fitness NN 
+period NN 
+voting NN VBG JJ 
+party NN 
+provide VB VBP 
+information NN 
+result NN VB VBP 
+size NN VBP 
+control NN VB VBP JJ 
+needed VBN VBD JJ 
+experts NNS 
+support NN VB VBP 
+profits NNS VBZ 
+safe JJ NN 
+service NN VB 
+themselves PRP 
+entities NNS 
+companies NNS 
+meet VB VBP 
+short JJ RB VB 
+called VBN VBD VB 
+toward IN 
+encouraged VBN VBD JJ 
+again RB 
+offer NN VB VBP 
+wage NN VB 
+life NN 
+fund NN VB VBP 
+begin VB VBP 
+workers NNS 
+employees NNS VBZ 
+officials NNS 
+comment VB NN 
+launch VB NN 
+printer NN 
+common JJ NN 
+group NN VB 
+led VBN VBD 
+plans NNS VBZ 
+file VB NN VBP 
+management NN 
+elaborate VB JJ 
+announced VBD VBN JJ 
+itself PRP 
+auction NN VB 
+63 CD 
+estate NN 
+officer NN 
+understand VB VBP 
+across IN RP RB 
+issues NNS VBZ 
+comeback NN 
+without IN 
+reason NN VB 
+my PRP$ JJ 
+technical JJ 
+{ ( 
+} ) 
+stable JJ NN 
+weeks NNS 
+record NN JJ VB 
+summer NN 
+exchange NN VB VBP 
+so RB IN CC 
+memories NNS 
+losing VBG JJ NN 
+35 CD 
+hurt VBN VB VBD VBP NN JJ 
+direction NN 
+told VBD VBN 
+crush NN VB 
+session NN 
+reading VBG NN 
+watching VBG NN 
+cautiously RB 
+decline NN VB VBP 
+everybody NN 
+surprised VBN VBD JJ 
+storm NN 
+private JJ RB 
+senior JJ 
+picking VBG NN 
+wanted VBD VBN JJ 
+blow NN VB 
+swift JJ NN 
+recovery NN 
+signs NNS VBZ 
+biggest JJS 
+now RB JJ 
+month NN 
+300 CD 
+each DT 
+p.m RB NN 
+triple JJ RB VB 
+partner NN 
+turned VBD VBN 
+spread NN VBN VBD VB VBP 
+line NN VB 
+ordering VBG 
+instead RB 
+primarily RB 
+waiting VBG NN 
+sidelines NNS 
+entered VBD VBN 
+covered VBN VBD JJ 
+nearly RB 
+allowing VBG 
+taxes NNS VBZ 
+27 CD 
+increases NNS VBZ 
+16 CD 
+earlier RBR RB JJR NN JJ 
+related VBN JJ VBD 
+purchase NN VB VBP 
+remaining VBG JJ 
+loan NN VB 
+credit NN VB 
+quality NN JJ 
+growth NN VB JJ 
+17 CD 
+28 CD 
+helped VBD VBN VBP 
+squeeze NN VB VBP 
+released VBN VBD 
+reflect VB VBP 
+complete JJ VB 
+fill VB VBP NN 
+regional JJ 
+consumer NN 
+allowed VBN VBD JJ VB 
+slightly RB 
+added VBD VBN JJ 
+asked VBD VBN JJ 
+asking VBG NN 
+clarify VB 
+challenges NNS VBZ 
+businesses NNS 
+manner NN 
+definition NN 
+national JJ 
+filed VBN VBD 
+less JJR RBR CC JJS RB 
+per IN FW 
+owns VBZ 
+67 CD 
+various JJ 
+fairness NN 
+disagrees VBZ 
+18 CD 
+trade NN VB VBP 
+she PRP 
+these DT 
+important JJ 
+contradiction NN 
+views NNS VBZ 
+report NN VB VBP 
+illegal JJ 
+fish NN RB 
+brought VBN VBD 
+argument NN 
+ruling NN VBG JJ 
+international JJ 
+rules NNS VBZ 
+original JJ NN 
+accept VB VBP 
+enter VB VBP 
+catch VB NN VBP 
+removed VBN VBD 
+spend VB VBP 
+somehow RB 
+read VB VBN VBD VBP NN 
+lips NNS 
+assistance NN 
+90 CD 
+preferred JJ VBN VBD VBG 
+40 CD 
+receive VB VBP 
+55 CD 
+76 CD 
+global JJ 
+due JJ RB NN NNS 
+face NN VB VBP JJ 
+allows VBZ 
+currently RB 
+1,000 CD 
+being VBG NN JJ 
+making VBG NN 
+recognize VB VBP 
+municipal JJ NN 
+21 CD 
+2.2 CD 
+23 CD 
+31 CD 
+signed VBD VBN JJ 
+builder NN 
+building NN VBG 
+subject JJ NN VB 
+apparently RB 
+yet RB CC RP 
+speculate VB VBP 
+problems NNS 
+often RB 
+demand NN VB VBP 
+signal NN VB VBP 
+difficulties NNS 
+seeing VBG 
+nothing NN 
+swim VBP 
+water NN VB 
+forecast NN VBN VBD VB VBP 
+quiet JJ VB NN 
+hell NN UH 
+knows VBZ 
+happened VBD VBN 
+shows VBZ NNS 
+systems NNS 
+procedures NNS 
+conditions NNS 
+impossible JJ 
+realistic JJ 
+feeding VBG NN 
+possibility NN 
+cause VB NN VBP 
+slide NN VB 
+futures NNS 
+shut VBD VBN VB 
+500 CD 
+stopped VBD VBN 
+options NNS 
+daily JJ RB NN 
+though IN RB 
+physically RB 
+actually RB 
+become VB VBN VBP VBD 
+makes VBZ NNS 
+different JJ 
+joint JJ NN 
+staying VBG NN 
+disappear VB VBP 
+ways NNS 
+our PRP$ 
+larger JJR 
+course NN 
+actions NNS 
+alone RB JJ 
+crack VB NN VBP 
+school NN VB 
+poses VBZ 
+social JJ 
+pressure NN VB VBP 
+play VB NN VBP 
+decisions NNS 
+means VBZ NNS NN 
+begun VBN 
+southern JJ 
+job NN 
+ease VB NN 
+finding VBG NN 
+fault NN 
+judge NN VB VBP 
+players NNS 
+minor JJ 
+league NN 
+trouble NN 
+parking NN VBG 
+kicked VBD VBN 
+player NN 
+broke VBD JJ RB 
+suit NN VB RB 
+innocent JJ 
+responsible JJ 
+duties NNS 
+retirement NN 
+basing VBG 
+experience NN VB VBP 
+care NN VB VBP 
+extension NN 
+travel NN VB VBP 
+housing NN 
+respect NN VB 
+top JJ NN VB VBP 
+treat VB VBP NN 
+respected VBN JJ VBD 
+satisfied VBN JJ VBD 
+windows NNS 
+pictures NNS VBZ 
+save VB VBP IN 
+state NN VBP VB 
+priority NN JJ 
+survey NN VB VBP 
+aim NN VBP VB 
+replace VB VBP 
+consider VB VBP 
+82 CD 
+college NN 
+degrees NNS 
+pays VBZ 
+coverage NN 
+given VBN JJ 
+site NN 
+usually RB 
+cover VB VBP NN 
+house NN VB 
+deter VB VBP 
+award NN 
+12th JJ 
+century NN 
+words NNS 
+extreme JJ NN 
+hands NNS VBZ 
+barely RB 
+beefing VBG 
+complaints NNS 
+planned VBN JJ VBD 
+chicken NN 
+tracks VBZ NNS 
+traffic NN 
+count NN VB VBP 
+food NN 
+pizza NN 
+research NN VB 
+troubled JJ VBN VBD 
+restaurant NN 
+feeling NN VBG 
+recently RB 
+lunch NN VB 
+testing NN VBG 
+products NNS 
+warm JJ VB 
+fresh JJ 
+test NN VB VBP 
+rumors NNS VBZ 
+soft JJ 
+exposure NN 
+shun VBP VB 
+radio NN 
+mention VB NN VBP 
+end NN VB VBP JJ 
+messages NNS 
+tips NNS 
+promote VB VBP 
+format NN 
+energy NN 
+always RB 
+similar JJ 
+question NN VBP VB 
+grocery NN 
+display NN VB VBP 
+cards NNS 
+environment NN 
+choices NNS 
+puts VBZ NNS 
+list NN VB VBP 
+confirms VBZ 
+brand NN 
+version NN 
+product NN 
+alternative NN JJ 
+accurate JJ 
+wishes VBZ NNS 
+parents NNS 
+items NNS 
+store NN VB VBP 
+study NN VB VBP 
+bars NNS VBZ 
+celebrity NN 
+voted VBD VBN 
+chosen VBN JJ 
+confirmed VBD VBN 
+alike RB 
+health NN 
+forces NNS VBZ 
+deficiency NN 
+talk NN VB VBP 
+release NN VB VBP 
+her PRP$ PRP 
+politics NNS NN 
+faces VBZ NNS 
+homes NNS 
+apartment NN 
+expanded VBN VBD JJ 
+defense NN 
+production NN 
+association NN 
+member NN 
+coalition NN 
+er UH 
+70 CD 
+1980 CD 
+backed VBN VBD JJ 
+host NN VB 
+goal NN 
+regularly RB 
+extensive JJ 
+annually RB 
+mortgage NN VB 
+reduce VB VBP 
+tax NN VB 
+rental JJ NN 
+twisted VBN JJ 
+developers NNS 
+cost NN VB VBD VBN VBP 
+parts NNS 
+red JJ NN 
+ink NN 
+pump VB NN VBP 
+impact NN VB 
+local JJ NN 
+legislative JJ 
+controls NNS VBZ 
+build VB VBP VBN 
+desire NN VBP 
+pork NN 
+basically RB 
+taxpayers NNS 
+key JJ NN VB 
+policies NNS 
+story NN 
+single JJ VBP 
+date NN VBP VB 
+starting VBG JJ NN 
+declaration NN 
+summit NN 
+start VB NN VBP 
+legal JJ 
+clear JJ VB RB VBP 
+reminds VBZ 
+joke NN VB 
+tells VBZ 
+grand JJ 
+e SYM NN LS 
+ceremonies NNS 
+word NN 
+patch NN VB 
+together RB RP 
+growing VBG NN JJ 
+fear NN VBP VB 
+deals NNS VBZ 
+producer NN 
+reviews NNS VBZ 
+heard VBN VBD 
+studies NNS VBZ 
+suggest VBP VB 
+music NN 
+others NNS 
+write VB VBP 
+really RB 
+whatever WDT 
+pool NN VBP 
+unexpected JJ 
+look VB VBP NN 
+reveals VBZ 
+billions NNS 
+junk NN VB 
+setting VBG NN 
+stage NN VB VBP 
+march NN VB VBP 
+cast NN VBD VBN VB 
+postpone VB VBP 
+planning NN VBG 
+anxious JJ 
+boosts NNS VBZ 
+code NN VB 
+silent JJ 
+steps NNS VBZ 
+find VB VBP 
+makers NNS 
+confirm VB VBP 
+behavior NN 
+ultimate JJ 
+lightning NN 
+speed NN VB 
+rode VBD 
+tiger NN 
+sometimes RB 
+killed VBN VBD 
+truth NN 
+citizen NN 
+war NN VB 
+actual JJ 
+blunt VB JJ 
+concentrate VB NN VBP 
+seem VBP VB 
+teaches VBZ 
+ground NN VB JJ VBN VBD 
+tone NN 
+behind IN RB RP NN 
+absence NN 
+presence NN 
+felt VBD VBN 
+show NN VB VBP 
+near IN JJ RB 
+section NN , 
+bear VB NN VBP 
+ones NNS 
+event NN 
+pure JJ 
+following VBG JJ NN 
+political JJ 
+finish VB NN VBP 
+maybe RB 
+built VBN VBD 
+massive JJ 
+trends NNS 
+change NN VB VBP 
+passed VBN VBD 
+voters NNS 
+ban NN VB VBP 
+sue VB 
+thinks VBZ 
+dirty JJ 
+lobby NN VB 
+wheat NN 
+farmers NNS 
+fruit NN 
+reality NN 
+mandate NN VB 
+whole JJ NN RP 
+ambition NN 
+de NNP FW IN JJ 
+governor NN 
+ballot NN 
+election NN 
+candidate NN 
+playing VBG NN JJ 
+modern JJ NN 
+creates VBZ 
+floating VBG JJ 
+longer RB RBR JJR 
+litigation NN 
+hoping VBG 
+mom NN 
+collection NN 
+nonsense NN JJ 
+commerce NN 
+media NNS NN 
+citizens NNS 
+jobs NNS 
+define VB 
+wherever WRB 
+watch VB NN VBP 
+advance NN VB JJ VBP 
+fed VBN NN VBD 
+sign NN VB 
+sister NN JJ 
+2.3 CD 
+strange JJ 
+9:30 CD 
+headed VBN VBD 
+specialist NN JJ 
+charge NN VBP VB 
+worse JJR RBR 
+hopes VBZ NNS 
+cheap JJ NN RB 
+1/2 CD 
+head NN VB VBP JJ 
+crossed VBN VBD 
+tell VB VBP 
+acts NNS VBZ 
+healthy JJ 
+boss NN 
+cry NN VB 
+meaning VBG NN 
+difference NN 
+subsequent JJ 
+utilities NNS 
+performing VBG NN 
+field NN VB 
+finished VBD VBN JJ VB 
+below IN RB 
+14 CD 
+praised VBD VBN 
+jump NN VB VBP 
+certainly RB 
+something NN 
+nervous JJ 
+technology NN 
+ca MD 
+interview NN VB 
+opposite JJ NN IN 
+used VBN VBD JJ 
+round NN VB VBP JJ 
+strength NN 
+kept VBD VBN 
+excellent JJ 
+joined VBD VBN 
+court NN VB 
+ask VB VBP 
+flight NN 
+bringing VBG NN 
+expansion NN 
+powerful JJ 
+found VBD VBN 
+matter NN VB VBP 
+votes NNS VBZ 
+26 CD 
+road NN 
+projects NNS VBZ 
+follow VB VBP 
+power NN VB 
+ambitious JJ 
+airport NN 
+urban JJ 
+city NN 
+favor NN VBP VB 
+dollars NNS 
+serving VBG 
+sum NN VB 
+cut VB NN VBN VBD VBP JJ 
+changes NNS VBZ 
+paying VBG JJ 
+highway NN 
+85 CD 
+mass NN JJ RB 
+movie NN 
+exclusive JJ 
+success NN 
+movies NNS 
+smash NN VB 
+family NN 
+friendly JJ 
+send VB VBP 
+gift NN 
+shadow NN VB 
+page NN 
+willing JJ VBG 
+crystal NN 
+china NN 
+extraordinary JJ 
+appointment NN 
+comprehensive JJ 
+bond NN 
+tied VBN VBD 
+climb NN VB 
+note NN VBP VB 
+disappointed VBN JJ VBD 
+willingness NN 
+7:30 CD 
+eye NN 
+focus VB NN VBP 
+data NNS NN 
+number NN 
+supply NN VB VBP 
+details NNS 
+lots NNS 
+101 CD 
+weekly JJ RB NN 
+lowest JJS 
+98 CD 
+busy JJ 
+flat JJ RB NN 
+touch NN VB RB 
+south RB NN JJ 
+became VBD 
+hand NN VB RB 
+runaway JJ 
+medical JJ 
+challenge NN VB VBP 
+mix NN VB 
+contact NN VB 
+waste NN VB 
+great JJ RB 
+rest NN VB VBP 
+security NN 
+video NN JJ 
+entertainment NN 
+doing VBG 
+supplies NNS VBZ 
+trucks NNS VBZ 
+4.25 CD 
+productivity NN 
+print NN VBP 
+men NNS 
+women NNS 
+clothes NNS 
+mart NN NNP 
+trademark NN 
+limited JJ VBN VBD 
+partnership NN 
+gas NN 
+vehicle NN 
+midnight NN 
+belong VB VBP 
+manual JJ 
+photography NN 
+feature NN VB VBP 
+photos NNS 
+jeans NNS 
+shoes NNS 
+shooting VBG NN 
+classes NNS 
+crowded VBN JJ VBD 
+students NNS 
+happening VBG NN 
+black JJ NN 
+white JJ NN 
+fashion NN VB 
+designers NNS 
+classic JJ NN 
+enjoying VBG 
+film NN 
+tap VB 
+paper NN 
+light NN JJ VB 
+papers NNS 
+known VBN JJ 
+exactly RB 
+baby NN 
+shift NN VB VBP 
+attractive JJ 
+shots NNS 
+stars NNS VBZ 
+artists NNS 
+highlight VB NN 
+won VBD VBN NN NNS 
+using VBG 
+friends NNS 
+wow UH 
+develop VB VBP 
+anymore RB 
+tackle VB VBP 
+labs NNS 
+prizes NNS 
+starter NN JJ 
+kit NN 
+noticed VBD VBN JJ 
+requests NNS 
+children NNS 
+turning VBG NN 
+greatest JJS 
+celebrating VBG 
+spirit NN 
+appeal NN VB VBP 
+submitted VBN VBD 
+70,000 CD 
+network NN VB 
+outlets NNS 
+available JJ 
+fifth JJ RB NN 
+straight JJ RB 
+monthly JJ RB NN 
+perhaps RB 
+facility NN 
+adjusted VBN JJ VBD 
+useful JJ 
+feels VBZ 
+external JJ 
+giving VBG 
+southwest JJS NN JJ 
+protection NN 
+ratings NNS 
+believed VBN VBD 
+tried VBD VBN JJ 
+possibly RB 
+shipping VBG NN 
+drive NN VB VBP 
+auto NN 
+car NN 
+10.4 CD 
+virtually RB JJ 
+cuts NNS VBZ 
+raises VBZ NNS 
+rule NN VB VBP 
+passing VBG NN 
+moves NNS VBZ 
+minimum JJ NN 
+100,000 CD 
+indications NNS 
+location NN 
+fixed VBN JJ VBD 
+software NN 
+entry NN 
+traditional JJ 
+heart NN RB 
+personal JJ NN 
+invest VB VBP 
+license NN VB VBP 
+technologies NNS 
+providing VBG 
+users NNS 
+discuss VB 
+# # 
+hardware NN 
+nursing NN VBG 
+centers NNS VBZ 
+bring VB VBP 
+upon IN RP RB 
+winner NN 
+writing VBG NN 
+charged VBN VBD 
+arrested VBN 
+charges NNS VBZ 
+person NN 
+insult NN VB 
+freedom NN 
+starts VBZ NNS VBP 
+enjoyed VBN VBD 
+treatment NN 
+authentic JJ 
+peace NN 
+remove VB 
+elections NNS 
+visited VBD VBN 
+criminal JJ NN 
+lawyer NN 
+incidents NNS 
+arranging VBG 
+washing VBG NN 
+community NN 
+haven NN 
+supporting VBG JJ 
+sugar NN 
+meat NN 
+consumption NN 
+commodity NN 
+silver NN JJ 
+metal NN 
+performer NN JJ 
+nose NN 
+advances NNS 
+spirits NNS 
+mine NN JJ PRP VBP 
+516 CD 
+tons NNS 
+hurricane NN 
+weather NN VB VBP 
+northern JJ 
+attention NN 
+pulled VBD VBN 
+minds NNS 
+prompt VB JJ 
+comments NNS 
+bit NN RB JJ 
+comfortable JJ 
+53 CD 
+partners NNS 
+except IN VB 
+riding VBG NN 
+history NN 
+bag NN 
+capture VB NN 
+discovery NN 
+miles NNS 
+2.5 CD 
+interested JJ VBN 
+utility NN 
+act NN VB VBP 
+broken VBN JJ 
+warning NN VBG 
+military JJ NN 
+follows VBZ 
+moment NN 
+monitor VB VBP NN 
+slapped VBD VBN 
+valuable JJ 
+lessons NNS 
+age NN VBP 
+agrees VBZ 
+spree NN 
+professionals NNS 
+everywhere RB 
+rocky JJ 
+sit VB VBP 
+comfort NN 
+sea NN 
+- : 
+meant VBN VBD 
+designed VBN VBD 
+reportedly RB 
+cheers NNS 
+hunting NN VBG 
+country NN 
+mayor NN 
+press NN VB VBP 
+speech NN 
+accused VBN VBD 
+stories NNS 
+contractor NN 
+countdown NN 
+space NN 
+diabetes NN 
+trip NN 
+ties NNS VBZ 
+visit NN VB VBP 
+resume VB VBP NN 
+families NNS 
+main JJ NN 
+prisoners NNS 
+activities NNS 
+rises VBZ NNS 
+actor NN 
+cancer NN 
+shirt NN 
+socks NNS 
+realized VBN VBD 
+pull VB VBP NN 
+drag NN VB VBP 
+books NNS NN 
+claiming VBG 
+man NN VB UH 
+answer NN VB VBP 
+sees VBZ 
+sound JJ NN VB 
+perform VB VBP 
+driver NN 
+beat VB VBD VBP NN JJ 
+easy JJ RB 
+central JJ NN 
+calling VBG NN 
+degree NN 
+shaking VBG 
+rid JJ VB VBD VBN 
+link NN VB VBP 
+afraid JJ 
+trust NN VB VBP 
+lock VB NN VBP JJ 
+model NN JJ VB 
+flying VBG 
+talking VBG NN 
+updates NNS 
+wondering VBG 
+declare VB VBP 
+2,000 CD 
+330 CD 
+involved VBN VBD JJ VB 
+met VBD VBN 
+upstairs NN JJ RB 
+hundred CD 
+oh UH 
+yes UH RB 
+claims NNS VBZ 
+developer NN 
+philosophy NN 
+covers VBZ 
+mall NN 
+sites NNS 
+actress NN 
+saved VBN VBD 
+175 CD 
+steep JJ NN 
+likes VBZ NNS NN 
+9.2 CD 
+drops VBZ NNS 
+dream NN VBP VB 
+chances NNS 
+8:30 CD 
+staff NN VB 
+mode NN 
+recording NN VBG 
+rough JJ 
+fat JJ NN 
+telling VBG JJ 
+highs NNS 
+scared VBN JJ VBD RB 
+upset JJ VBN VB NN 
+backdrop NN 
+scheduling NN VBG 
+fly VB VBP NN 
+supposed VBN JJ VBD 
+sure JJ RB 
+stand VB VBP NN 
+miss VB VBP 
+random JJ 
+check NN VB VBP 
+assured VBN VBD JJ 
+deliver VB VBP 
+predict VBP VB 
+table NN 
+term NN VB 
+knowledge NN 
+cancel VB 
+engines NNS 
+arm NN VB 
+electric JJ NN 
+generation NN 
+heat NN VB 
+wholesale JJ 
+fuel NN VB 
+ride NN VB VBP 
+inspired VBN VBD JJ 
+boom NN VB 
+anybody NN 
+consistently RB 
+garbage NN 
+bags NNS 
+milk NN VB 
+giants NNS 
+hurts VBZ 
+bet NN VB VBD VBP RB VBN 
+learn VB VBP 
+bonanza NN 
+topic NN 
+questions NNS VBZ 
+thinking VBG NN 
+died VBD VBN 
+hospital NN 
+human JJ NN 
+percent NN 
+engineer NN VB 
+strengthen VB VBP 
+category NN 
+upcoming JJ 
+steel NN 
+extra JJ 
+entrance NN 
+realize VB VBP 
+machine NN 
+phones NNS VBZ 
+hotel NN 
+hospitality NN 
+announces VBZ 
+laundry NN 
+believing VBG 
+takes VBZ 
+cup NN 
+clean VB JJ 
+prevents VBZ 
+completely RB 
+speaking VBG NN 
+breakfast NN 
+versus IN CC FW 
+hear VB VBP 
+am VBP RB 
+forest NN 
+quantitative JJ 
+impression NN 
+scary JJ 
+lady NN 
+beautiful JJ 
+intelligent JJ 
+stance NN 
+stuck VBN VBD JJ 
+promise NN VBP VB 
+seller NN 
+royalties NNS 
+picture NN VBP 
+holiday NN 
+driving VBG NN JJ 
+picked VBD VBN 
+burn VB VBP 
+feed NN VB 
+thousand CD 
+questioning VBG 
+investigation NN 
+competing VBG JJ 
+embargo NN 
+6.05 CD 
+relationship NN 
+leave VB VBP NN 
+corn NN 
+winter NN 
+rain NN VB 
+crop NN VB 
+emergency NN 
+dry JJ VB 
+orange NN JJ 
+waited VBD VBN 
+juice NN 
+snap NN VBP JJ 
+lack NN VBP 
+crazy JJ 
+knew VBD 
+choice NN JJ 
+recommend VB VBP 
+otherwise RB 
+brothers NNS 
+client NN 
+minister NN 
+prescription NN 
+injunction NN 
+motion NN 
+cable NN 
+edition NN 
+van NNP NN 
+silence NN VB 
+blasting VBG 
+vans NNS 
+criticize VB VBP 
+champion NN VBP JJ 
+cars NNS 
+flex JJ 
+notice NN VB VBP 
+die VB VBP NN 
+door NN 
+wide JJ RB 
+line-up NN 
+blood NN 
+lean JJ VB VBP 
+disease NN 
+81 CD 
+crashing VBG 
+responsibilities NNS 
+garden NN VB 
+zoo NN 
+footage NN 
+lovely JJ 
+playground NN 
+friend NN 
+transforms VBZ 
+flats NNS 
+sex NN 
+lived VBD VBN 
+names NNS 
+matched VBN VBD 
+living VBG NN JJ 
+girl NN 
+funny JJ 
+female JJ NN 
+loving JJ 
+liar NN 
+live VB VBP JJ RB 
+child NN 
+hero NN 
+young JJ 
+romantic JJ 
+kids NNS 
+sleeping NN VBG 
+bed NN 
+thief NN 
+pink JJ 
+song NN 
+honestly RB 
+baker NN 
+album NN 
+lugged VBD 
+loses VBZ 
+dating VBG 
+weird JJ 
+pleasure NN 
+novel NN JJ 
+scheme NN 
+wife NN 
+addicted VBN JJ 
+mystery NN 
+husband NN 
+bore VBD NN 
+sharing VBG NN 
+happy JJ 
+wish VBP NN VB 
+worry VB VBP NN 
+mountains NNS 
+bother VB VBP 
+predicting VBG NN 
+phrase NN 
+belief NN 
+rent NN VB 
+wonder VBP VB NN 
+residents NNS 
+owner NN 
+communities NNS 
+favorite JJ NN 
+command NN VB 
+square JJ NN VB RB 
+foot NN VBP VB 
+rentals NNS 
+finds VBZ NNS 
+80s NNS 
+assume VB VBP 
+mad JJ 
+joining VBG 
+victory NN 
+opinions NNS 
+hide VB 
+length NN 
+famous JJ 
+enjoys VBZ 
+facing VBG 
+via IN 
+giveaways NNS 
+discounts NNS VBZ 
+screening NN VBG 
+terrific JJ 
+announce VB VBP 
+attempted VBN VBD JJ 
+birth NN 
+elite JJ NN NNS 
+repetitive JJ 
+channel NN VB 
+mind NN VB 
+beauty NN 
+journalism NN 
+loyalty NN 
+lure VB NN 
+dinner NN 
+images NNS 
+tune NN VB 
+specially RB 
+pursue VB 
+content NN JJ VB 
+personality NN 
+tuned VBN 
+6:30 CD 
+switching VBG NN 
+creator NN 
+specials NNS 
+breaking VBG NN JJ 
+departure NN 
+kinds NNS 
+application NN 
+33.1 CD 
+ring NN VBP VB 
+football NN 
+contention NN 
+dismiss VB 
+dead JJ NN RB VBN 
+prize NN 
+equality NN 
+rape NN 
+dispatch VB 
+address VB NN VBP 
+street NN 
+coast NN 
+north RB NN JJ 
+mph NN JJ 
+winds NNS 
+fired VBN VBD 
+totally RB 
+tumbling VBG 
+climbing VBG 
+= SYM 
+easily RB 
+climate NN 
+popular JJ 
+woman NN 
+approaches NNS VBZ 
+pop NN VB JJ VBP 
+militant JJ 
+drama NN 
+classy JJ 
+pretending VBG 
+chocolate NN 
+dancing VBG NN 
+exist VB VBP 
+cheese NN 
+stunt NN 
+fun NN 
+guest NN JJ 
+someone NN 
+coin NN 
+weight NN VB 
+pancakes NNS 
+stuff NN VBP 
+songs NNS 
+pointless JJ 
+stays VBZ NNS 
+cream NN 
+taste NN VBP VB 
+sheep NN 
+dogs NNS VBZ 
+scratch NN VBP 
+train NN VB VBP 
+blame VB NN VBP 
+station NN 
+acted VBD VBN 
+clearance NN 
+fraud NN 
+romance NN 
+closer RBR JJR RB 
+sitting VBG 
+join VB VBP 
+worries NNS VBZ 
+950 CD 
+capability NN 
+unnecessary JJ 
+rigs NNS 
+western JJ 
+associated VBN JJ 
+lately RB 
+difficulty NN 
+hurting VBG 
+printers NNS 
+displays NNS VBZ 
+bus NN 
+type NN 
+method NN 
+tighten VB VBP 
+lose VB VBP 
+eat VB VBP 
+grown VBN JJ 
+midwestern JJ 
+race NN 
+couples NNS 
+elderly JJ 
+aged VBN 
+younger JJR 
+sample NN 
+class NN 
+appreciate VB VBP 
+secure VB JJ VBP 
+guilt NN 
+charity NN 
+religious JJ 
+principles NNS 
+rhymes VBZ 
+town NN 
+installing VBG 
+lounge NN 
+worried VBN JJ VBD 
+bears VBZ NNS 
+drunk JJ NN 
+drink NN VB VBP 
+drinks NNS 
+admit VB VBP 
+cans NNS 
+embarrassed JJ VBN VBD 
+ridiculous JJ 
+praise NN VB VBP 
+homework NN 
+brother NN 
+wear VB VBP NN 
+hair NN 
+engaged VBN VBD JJ 
+ear NN 
+star NN VB JJ 
+humor NN 
+fancy JJ NN 
+amateur JJ 
+fail VB VBP 
+jokes NNS VBZ 
+self NN 
+pro FW JJ NN 
+campuses NNS 
+boil VB NN 
+steam NN 
+happens VBZ 
+adults NNS 
+widow NN 
+theme NN 
+author NN 
+plot NN VB 
+marriage NN 
+pot NN VB 
+quits VBZ 
+comic JJ NN 
+moments NNS 
+middle NN JJ 
+caring VBG NN JJ 
+ought MD 
+pet JJ NN 
+missing VBG JJ 
+senator NN 
+sweet JJ 
+payroll NN 
+freeze NN VB 
+kidding VBG 
+des NNP FW 
+attack NN VB VBP 
+nerves NNS 
+massacre NN 
+technically RB 
+idea NN 
+lasted VBD VBN 
+advice NN 
+refrain VB NN 
+heading VBG 
+guess VBP VB NN 
+suppose VBP VB 
+error NN 
+sorts NNS 
+pin VB NN 
+hang VB VBP 
+missed VBD VBN 
+nice JJ 
+etc FW NN 
+bunch NN 
+motivation NN 
+toilet NN 
+abuse NN VB 
+forth RB RP 
+body NN 
+shall MD 
+witness NN 
+prosecutor NN 
+convict VB 
+justified VBN JJ 
+shake VB NN VBP 
+hurry NN VB 
+taught VBD VBN 
+decades NNS 
+killing VBG NN 
+strengths NNS 
+employed VBN 
+loyal JJ 
+agenda NN 
+finger NN VB 
+mum JJ 
+feelings NNS 
+angry JJ 
+strip NN VB 
+sun NN 
+640 CD 
+front NN JJ RB 
+housewife NN 
+congress NN 
+club NN 
+calmly RB 
+quit VBD VB VBP VBN 
+assistant NN JJ 
+liquid JJ NN 
+regret NN VB VBP 
+gets VBZ 
+bath NN 
+visiting VBG 
+shy JJ VB VBP 
+weighs VBZ 
+inches NNS 
+surface NN VB VBP 
+pen NN 
+tag NN VB 
+anytime RB 
+integrated VBN JJ 
+shoot VB VBP NN 
+finishing VBG JJ 
+wind NN VB VBP 
+wealth NN 
+seriously RB 
+appealing VBG JJ 
+tool NN 
+letters NNS 
+exercises VBZ NNS 
+shaken VBN 
+mail NN VB VBP 
+files NNS VBZ 
+relax VB VBP 
+strict JJ 
+creative JJ 
+chamber NN 
+listening VBG NN 
+jam NN 
+concert NN 
+birthday NN 
+flip JJ VB 
+buddy NN 
+fingers NNS 
+clarinet NN 
+mood NN 
+singer NN 
+sang VBD 
+encounter NN VB 
+blessing NN 
+clouds NNS VBZ 
+musical JJ 
+sounds VBZ NNS 
+enjoy VB VBP 
+talents NNS 
+passes VBZ NNS 
+corrupt JJ 
+journalists NNS 
+ideas NNS 
+membership NN 
+cloud NN VB VBP 
+sow VBP VB 
+apply VB VBP 
+rice NN 
+inch NN VB 
+trick NN VB 
+kill VB VBP NN 
+spray NN 
+animals NNS 
+sciences NNS 
+cell NN 
+interesting JJ 
+hungry JJ 
+simple JJ NN 
+enormous JJ 
+titans NNS 
+pride NN 
+suggestions NNS 
+turf NN JJ 
+captain NN VBP 
+wrath NN 
+flips VBZ 
+sports NNS VBZ 
+beer NN 
+kid NN 
+workout NN 
+autographed VBN JJ 
+pack NN VB VBP 
+lying VBG 
+beach NN 
+bridge NN JJ VB 
+cheer NN VB 
+seasons NNS 
+camp NN 
+walked VBD 
+satisfaction NN 
+dislike NN VBP VB 
+remember VB VBP 
+sage NN 
+trim VB JJ 
+status NN FW 
+30s NNS 
+stupid JJ 
+prepares VBZ 
+lives NNS VBZ 
+stadium NN 
+wall NN VB 
+pitchers NNS 
+fit VB NN VBP JJ VBN 
+throwing VBG NN 
+throw VB VBP 
+cheek NN 
+cleared VBD VBN 
+golden JJ 
+fires NNS VBZ 
+lift VB NN VBP 
+knight NN 
+shootout NN 
+silly JJ RB NN 
+invitation NN 
+founder NN 
+stalked VBN 
+dates NNS VBZ 
+dull JJ 
+painting NN VBG 
+counter VB NN RB VBP JJ 
+monsieur NN 
+shoulder NN VB 
+coffee NN 
+eating VBG NN JJ 
+drinking NN VBG 
+suggestion NN 
+shaped VBN JJ 
+condom NN 
+hate VBP VB NN 
+wet JJ 
+referring VBG 
+wit NN 
+chase NN JJ VB 
+heaven NN 
+tiny JJ 
+heating VBG NN 
+knuckles NNS 
+ditch NN 
+trailer NN 
+craft NN VB 
+routine JJ NN 
+hole NN VBP 
+ego NN 
+figured VBD VBN 
+resist VB VBP 
+smooth JJ VB 
+46 CD 
+inside IN RB JJ NN 
+answers NNS VBZ 
+wrestling VBG NN 
+guns NNS 
+offensive JJ NN 
+becoming VBG 
+structured VBN JJ VBD 
+tree NN 
+treats VBZ 
+tile NN 
+poll NN JJ VB 
+mistakes NNS 
+impressive JJ 
+tale NN 
+top-secret JJ 
+egg NN 
+lab NN 
+valid JJ 
+obsession NN 
+alert VB JJ NN 
+invited VBN VBD 
+theft NN 
+fascinating JJ 
+chip NN 
+gripping JJ VBG 
+chef NN 
+rubber NN 
+bands NNS 
+purse NN 
+passion NN 
+cooking NN VBG JJ 
+style NN 
+ice NN 
+kiwi NN 
+fool NN VB 
+dish NN VB 
+crushed VBN JJ 
+la FW NNP DT 
+copies NNS 
+menu NN 
+planners NNS 
+titles NNS 
+insulation NN 
+pleased JJ VBN VBD 
+myself PRP 
+potted JJ 
+bench NN 
+guard NN VB VBP 
+ceremony NN 
+king NN 
+secret JJ NN 
+hidden VBN JJ 
+dummy JJ NN 
+ludicrous JJ 
+blames VBZ 
+toes NNS 
+awesome JJ 
+mount VB VBP 
+son NN 
+locally RB 
+guts NNS 
+lip NN JJ 
+dance NN VB 
+tea NN 
+county NN 
+proud JJ 
+suspect VBP VB JJ NN 
+photograph NN 
+brick NN 
+scream NN VBP 
+trash NN VB 
+di FW NNP 
+removes VBZ 
+outlet NN 
+reinvest VB VBP 
+alive JJ RB 
+demise NN 
+regular JJ 
+forever RB 
+context NN 
+beloved JJ 
+irritated JJ 
+east JJ RB 
+doors NNS 
+literally RB 
+bold JJ 
+select VB JJ VBP 
+records NNS VBZ 
+fulfill VB VBP 
+repaired VBN VBD 
+hiding VBG NN 
+politicians NNS 
+scotch NN 
+bottle NN VB 
+leg NN 
+tastes NNS VBZ 
+costume JJ NN 
+fake JJ NN 
+gems NNS 
+animal NN JJ 
+how-to JJ 
+motivate VB VBP 
+wing NN 
+checks NNS VBZ 
+messiah NN 
+brilliant JJ 
+religion NN 
+church NN 
+sentence NN 
+faithful NN JJ 
+del FW NNP DT 
+lavish JJ 
+followers NNS 
+pair NN VB 
+guests NNS 
+bloody JJ 
+churches NNS 
+border NN 
+honor VB NN 
+31.1 CD 
+banned VBN VBD 
+soccer NN 
+prime JJ 
+affirmation NN 
+directed VBN VBD 
+freight NN VB 
+dress NN VB VBP 
+dashboard NN 
+sideways RB JJ 
+adjusting VBG NN 
+begins VBZ 
+styling NN VBG 
+grabbed VBD VBN 
+odd JJ 
+cute JJ 
+design NN VB 
+1995 CD 
+brings VBZ 
+launches NNS VBZ 
+21st JJ CD 
+afford VB VBP 
+unstoppable JJ 
+slowly RB 
+historic JJ 
+vintage JJ NN 
+drafted VBN VBD 
+shore VB NN 
+pro- JJ 
+box NN 
+truly RB 
+posture NN 
+window NN 
+pocket NN VB 
+lie VB VBP NN 
+dies VBZ 
+politician NN 
+camera NN 
+enemy NN 
+amazing JJ 
+draft NN VB 
+declaring VBG 
+spotlight NN VB 
+sincere JJ 
+yourself PRP 
+outline VB NN 
+update VB NN 
+backs VBZ NNS 
+spelling VBG NN 
+assessment NN 
+hobby NN 
+petition NN VB 
+echoing VBG 
+contacts NNS 
+seminars NNS 
+fabulous JJ 
+outfit NN VB 
+hugs NNS 
+tears NNS 
+premier NN JJ JJR 
+understood VBD VBN 
+sad JJ 
+awareness NN 
+patient NN JJ 
+pulls VBZ 
+woke VBD 
+muscles NNS 
+physical JJ NN 
+awake JJ RB 
+injury NN 
+rap NN 
+wasting NN VBG 
+hearts NNS 
+warriors NNS 
+blown VBN 
+sing VB VBP 
+musicians NNS 
+perfect JJ 
+wider JJR RBR 
+urgently RB 
+gate NN 
+mess NN 
+poster NN 
+anyway RB 
+vegetables NNS 
+turkey NN 
+rich JJ 
+busted JJ VBN VBD 
+empower VBP 
+lies VBZ NNS 
+forget VB 
+surely RB 
+thoughts NNS 
+pros NNS 
+strikes NNS VBZ 
+solutions NNS 
+lacks VBZ 
+treatments NNS 
+warns VBZ 
+nuts NNS 
+definitely RB 
+saving VBG NN 
+somebody NN 
+minute NN JJ 
+seconds NNS 
+curl VB 
+pursuit NN 
+wings NNS 
+first-half JJ NN 
+celebration NN 
+roots NNS 
+arts NNS 
+smokers NNS 
+outraged VBN JJ 
+killer NN 
+smoke NN VBP VB 
+welcome JJ VB VBP 
+ticket NN 
+camouflage NN 
+loved VBD VBN 
+owning VBG NN 
+spin VB NN 
+spinoff NN 
+ransom NN 
+regulator NN 
+smells VBZ 
+oddly RB 
+truck NN 
+donated VBN VBD 
+rolled VBN VBD JJ 
+106 CD 
+born VBN 
+talked VBD VBN 
+stumbling VBG JJ 
+renews VBZ 
+cease VB 
+convoy NN 
+bomb NN VB 
+constituents NNS 
+curb VB NN 
+tunnel NN 
+delivers VBZ 
+tags NNS 
+breath NN 
+overriding JJ VBG 
+keeps VBZ 
+column NN 
+earth NN 
+unchanging JJ 
+chemistry NN 
+survival NN 
+overlooked VBD VBN 
+institute NN VB 
+knowing VBG 
+sexual JJ 
+mental JJ 
+innovate VB 
+frame NN VB 
+revolutionary JJ NN 
+rocket NN 
+jumping VBG 
+streamed VBD 
+10th JJ 
+upper JJ 
+hooked JJ VBN VBD 
+l NN 
+rife JJ 
+gifts NNS 
+depth NN 
+hottest JJS 
+bored VBN JJ 
+ate VBD 
+horrible JJ 
+ashamed JJ 
+walk VB VBP NN 
+desert NN VB 
+roommate NN 
+couch NN 
+stress NN VB VBP 
+girls NNS 
+teach VB VBP 
+bowl NN VBP 
+ya PRP 
+gon VBG VB 
+demons NNS 
+angels NNS 
+devils NNS 
+dreams NNS VBZ 
+attic NN 
+rat NN VB 
+plagued VBN VBD 
+slammed VBD 
+kitchen NN 
+dog NN 
+cats NNS 
+perspective NN 
+illusion NN 
+prayers NNS 
+evil JJ NN 
+dark JJ NN 
+praying VBG 
+holy JJ 
+grinds VBZ 
+psychic JJ 
+survivors NNS 
+401 CD 
+k NN 
+48 CD 
+lets VBZ 
+vacation NN 
+burger NN 
+sections NNS 
+sorry JJ RB 
+polls NNS VBZ 
+da NNP NN 
+ill JJ RB 
+poverty NN 
+4,900 CD 
+bone NN 
+toe NN 
+needing VBG 
+masters NNS 
+tolerate VB 
+reply VB NN 
+verge NN 
+art NN 
+journal NN 
+billionaire NN 
+load NN VB 
+mint NN 
+pregnant JJ 
+bent NN JJ 
+architects NNS 
+capitalism NN 
+unite VB 
+suffers VBZ 
+junior JJ NN 
+profile NN VB JJ 
+providers NNS 
+swear VB VBP 
+accepting VBG 
+listen VB VBP 
+invite VB 
+responds VBZ 
+singing NN VBG 
+umbrella NN 
+iron NN VB 
+kills VBZ 
+pregnancy NN 
+suppress VB 
+expose VB VBP 
+sight NN 
+please VB VBP 
+educated VBN 
+cartoons NNS 
+animation NN 
+museum NN 
+celebrate VB VBP 
+jail NN 
+shipped VBN VBD 
+artist NN 
+fooling NN VBG 
+phony JJ NN 
+conversation NN 
+injuries NNS 
+reinstalled VBN 
+warranty NN 
+donations NNS 
+pledged VBD VBN 
+don VB 
+rank VB NN VBP JJ 
+touching VBG JJ NN 
+instant JJ NN 
+unknown JJ NN 
+logic NN 
+precise JJ 
+stamp NN VB 
+apple NN 
+conclusion NN 
+rejuvenation NN 
+highways NNS 
+starved VBN 
+b SYM NN LS 
+c SYM NN LS 
+awaiting VBG 
+breast NN 
+battery NN 
+knocked VBD VBN 
+deleted VBN 
+nail VB NN 
+flipped VBD 
+implicated VBN 
+shell NN VB JJ 
+tour NN VB 
+doorstep NN 
+apologies NNS 
+et CC FW NNP 
+13.94 CD 
+unlawful JJ 
+knit VBN 
+knees NNS 
+dressed VBN VBD 
+tops NNS VBZ 
+27th JJ 
+west NN RB 
+virgin JJ 
+nasty JJ 
+observer NN 
+denial NN 
+2010 CD 
+tire NN 
+teeth NNS 
+bout NN 
+cliff NN 
+soldiers NNS 
+161 CD 
+360 CD 
+laughing VBG 
+fame NN 
+herb NN 
+folk NN 
+joints NNS 
+cereal NN 
+village NN 
+thunder NN 
+glad JJ 
+gorgeous JJ 
+nightmare NN 
+divorce NN 
+divergent JJ 
+struggle NN VB 
+belt NN 
+generous JJ 
+hum VB NN 
+dread NN 
+episode NN 
+documentary NN JJ 
+score NN VBP 
+portraits NNS 
+character NN 
+tip NN 
+chapter NN 
+hates VBZ 
+pathetic JJ 
+hypocrisy NN 
+naked JJ 
+stranded VBN 
+bra NN 
+boy NN UH 
+brown JJ 
+wasted VBN VBD 
+luck NN 
+weed NN 
+viewing VBG NN 
+input NN 
+tolls NNS 
+smug JJ 
+photo NN JJ 
+cheeky JJ 
+jumps VBZ NNS 
+bread NN 
+strides NNS 
+backpacks NNS 
+wool NN 
+friendship NN 
+feud NN 
+shame NN 
+corner NN VB 
+slime NN 
+2011 CD 
+herd NN 
+yuk NN 
+tall JJ 
+alien JJ NN 
+lights NNS 
+sky NN 
+hardy JJ 
+dumb JJ 
+robot NN 
+park NN VB 
+creatures NNS 
+rude JJ 
+courage NN 
+tie VB NN 
+stacks NNS 
+lame JJ 
+candy NN 
+moderation NN 
+viva FW 
+curious JJ 
+illogical JJ 
+herald VB 
+bathroom NN 
+lungs NNS 
+domination NN 
+trophy NN 
+everyday JJ 
+courier NN 
+steak NN 
+casts VBZ 
+audio JJ NN 
+peacefully RB 
+checkout NN 
+conservatism NN 
+deserves VBZ 
+replies VBZ NNS 
+imagination NN 
+tore VBD 
+skill NN 
+trees NNS 
+proving VBG NN 
+5th JJ 
+scripts NNS 
+opener NN 
+obscenity NN 
+cleaning VBG NN 
+encouragement NN 
+reminder NN 
+foods NNS 
+island NN 
+championship NN 
+von NNP 
+packing VBG NN 
+cosmetic JJ NN 
+makeup NN 
+disdain NN VB 
+smell NN VBP 
+facial JJ 
+wipe VB VBP 
+leaking VBG 
+confused VBN VBD JJ 
+harbor NN VBP 
+wives NNS 
+ladies NNS 
+surrounded VBN 
+butt NN VB 
+sophistication NN 
+presidents NNS 
+newest JJS 
+reasoning NN 
+retires VBZ 
+uh UH 
+concurrence NN 
+fathers NNS 
+heats VBZ 
+whip NN VB 
+abducted NN 
+forgotten VBN 
+twenty CD 
+motions NNS 
+neat JJ 
+frank JJ 
+grinders NNS 
+unprepared JJ 
+listens VBZ 
+script NN 
+stops VBZ NNS 
+audition VB NN 
+admirer NN 
+unfamiliar JJ 
+describe VB VBP 
+mo NN 
+rockets NNS 
+relate VBP VB 
+admissions NNS 
+teaching NN VBG 
+bird NN 
+cage NN 
+grade NN 
+bare JJ 
+custom NN 
+incredible JJ 
+yards NNS 
+metrics NNS 
+quiz NN VB 
+4th JJ 
+f SYM LS 
+tail NN JJ 
+cracks NNS 
+temperature NN 
+burning NN VBG 
+blessed VBN 
+sums NNS VBZ 
+apathetic JJ 
+chatter NN 
+teen JJ NN 
+guidance NN 
+gangs NNS 
+excited JJ VBN 
+sugary JJ 
+melts VBZ 
+submission NN 
+imply VBP VB 
+firsthand RB JJ 
+aspirations NNS 
+23.0 CD 
+2008 CD 
+sunglasses NNS 
+rand NNS NN 
+funeral JJ NN 
+glory NN 
+disgusted JJ VBN 
+peanut NN 
+text NN 
+yard NN 
+blowup NN 
+motorists NNS 
+cheating NN VBG 
+11:30 CD 
+grilled JJ 
+arrests NNS 
+tickets NNS 
+tired JJ VBN 
+allergic JJ 
+19th JJ 
+elder JJR 
+strife NN 
+cousin NN 
+negatives NNS 
+answered VBN VBD 
+15.7 CD 
+crossing VBG 
+ire NN 
+experiences NNS VBZ 
+basketball NN 
+lied VBD 
+skip VB 
+sleep VB NN VBP 
+teammates NNS 
+library NN 
+awkward JJ 
+freaks NNS 
+procrastination NN 
+teacher NN 
+math NN 
+manifesto NN 
+map NN VBP 
+blows NNS 
+hood NN 
+prof NN 
+sunny JJ 
+pressed VBN VBD 
+duel NN 
+4-1 CD 
+wedding NN 
+exit NN VB 
+mentally RB 
+ruthless JJ 
+humid JJ 
+withheld VBN VBD 
+determination NN 
+albums NNS 
+dealt VBN VBD 
+bathrooms NNS 
+balconies NNS 
+basement NN 
+fiasco NN 
+grave JJ NN 
+lucky JJ 
+d LS SYM 
+r LS NN SYM 
+x SYM LS 
+eve NN 
+gun NN 
+servers NNS 
+unaware JJ 
+governance NN 
+dope NN 
+siblings NNS 
+compelling JJ 
+unfolds VBZ 
+poorest JJS 
+holidays NNS 
+cocktail NN 
+buzz NN VB JJ 
+nonexistent JJ 
+purple JJ 
+15.5 CD 
+3.0 CD 
+se FW 
+monkey NN 
+cardinals NNS 
+rod NN 
+punk NN 
+marry VB 
+supreme JJ 
+dynamic JJ NN 
+laugh NN VB 
+unreliable JJ 
+downtown NN JJ 
+rite NN 
+glut NN VB 
+tribute NN 
+foolish JJ 
+forgive VB 
+gratuitous JJ 
+pumps NNS 
+arsenal NN 
+super JJ 
+ex FW 
+stunning JJ 
+invading VBG 
+worship NN 
+bitch NN 
+liars NNS 
+witch NN 
+666 CD 
+traits NNS 
+privacy NN 
+factual JJ 
+smart JJ 
+eternal JJ 
+jasmine NN 
+28th JJ 
+unlock VBP 
+bumps NNS 
+motorcycle NN 
+fantasy NN 
+hazard NN 
+rep NN 
+trapped VBN JJ 
+zone NN 
+flames NNS 
+wines NNS 
+aids NNS VBZ 
+sucks VBZ 
+deluxe JJ 
+warped JJ 
+sighs NNS VBZ 
+fluffy JJ 
+gem NN 
+lazy JJ 
+irk VB 
+s VBZ PRP 
+horror NN 
+chill NN VB 
+parks NNS 
+poured VBD VBN 
+tracked VBN VBD JJ 
+contributes VBZ 
+fragments NNS VBZ 
+squares NNS 
+stuffed VBD 
+hopeless JJ 
+incorrect JJ 
+bald JJ 
+kings NNS 
+tagged VBN 
+stickers NNS 
+stole VBD 
+confuse VB 
+crap NN 
+clowns NNS 
+august JJ 
+roar NN 
+scouting VBG 
+forgot VBN VBD 
+loop NN 
+log VB NN VBP 
+suite NN 
+sparks VBZ 
+videos NNS 
+asleep RB JJ 
+yearbook NN 
+mouth NN 
+hill NN 
+2014 CD 
+sexy JJ 
+prevalent JJ 
+ours JJ PRP 
+loser NN JJ 
+inks NNS 
+marathon NN 
+mothers NNS 
+steals VBZ 
+uncle NN 
+hopefully RB 
+rub NN VB VBP 
+* SYM NN 
+** SYM 
+louder RBR JJR 
+refreshing JJ 
+poker NN 
+cheering VBG 
+finals NNS 
+cares VBZ 
+jack NN VB 
+gizmos NNS 
+secretly RB 
+barn NN 
+buffet NN VB 
+sushi NN 
+lessen VB 
+damn RB UH NN JJ 
+constitutes VBZ 
+cocktails NNS 
+pounding VBG 
+dig NN VB 
+ferris JJ 
+heel NN 
+hosted VBD 
+pub NN 
+delicious JJ 
+rot NN 
+hone VB 
+till IN 
+autumns NNS 
+shine NN VBP VB 
+giveaway JJ NN 
+cookies NNS 
+carve VBP 
+voter NN 
+redistricting NN 
+8th JJ 
+carving VBG 
+noble JJ 
+freezing NN 
+ignite VB 
+ham NN 
+dying VBG 
+trunk NN 
+dam NN 
+smiles VBZ 
+vodka NN 
+bacon NN 
+tribe NN 
+lesbians NNS 
+fairy NN 
+ornaments NNS 
+wig NN 
+lover NN 
+scenery NN 
+louis NNS 
+bananas NNS 
+ponder VB VBP 
+plaza NN 
+riches NNS 
+curiosity NN 
+conscious JJ 
+creature NN 
+ruin VB VBP 
+senate NN 
+freeway NN 
+lien NN 
+codes NNS 
+irks VBZ 
+tear VB 
+dolls NNS 
+illuminate VB 
+inspirational JJ 
+yelling VBG 
+waters NNS 
+slap NN 
+tubes NNS 
+bang NN 
+magical JJ 
+com NN 
+ace NN 
+mouse NN 
+ballots NNS 
+wed VBN 
+multimedia NNS 
+stopping VBG NN 
+faked VBD VBN 
+craving NN 
+near-perfect JJ 
+massage NN VB 
+0 CD 
+humanizing VBG 
+subway NN 
+opt VB VBP 
+crouch NN 
+figurative JJ 
+dentist NN 
+brandy NN 
+whiskey NN 
+rum NN 
+chords NNS 
+cling VB VBP 
+drummer NN 
+matches VBZ 
+disciplined VBN JJ 
+conscientious JJ 
+interference NN 
+17th JJ 
+glorious JJ 
+wished VBN VBD 
+warren NN 
+underwater JJ 
+mesh VB NN 
+shout NN VBP VB 
+contenders NNS 
+loves VBZ 
+thirst NN 
+inking NN 
+nothin NN 
+snow NN 
+glamour NN 
+gay JJ 
+2.0 CD 
+aloud RB 
+despicable JJ 
+lash VB 
+darling NN 
+waitress NN 
+dome NN 
+dieting NN 
+giggle NN 
+poetry NN 
+afterwards RB 
+porcelain NN 
+avenue NN 
+swore VBD 
+hello UH 
+touring VBG NN 
+accent NN 
+beast NN 
+ping VB NN 
+brat NN 
+roster NN 
+freshman NN 
+dolce FW 
+punch NN VB VBP 
+fireworks NNS 
+brass NN 
+lingerie NN 
+consult VB 
+ugly JJ 
+den NN 
+stab NN 
+thrills VBZ 
+scars NNS 
+memorial NN 
+flirting VBG 
+nominations NNS 
+annoyed JJ VBD VBN 
+academy NN 
+teammate NN 
+squad NN 
+metro NN 
+dear RB 
+constitutionality NN 
+protester NN 
+grabs NNS 
+bay NN 
+sunshine NN 
+reunite VB 
+cat NN 
+2/3 CD 
+reign NN 
+rave VB 
+bottoms NNS 
+victor NN 
+entrepreneurship NN 
+indoor JJ 
+cake NN 
+renovation NN 
+stainless JJ 
+oaks NNS 
+prostitution NN 
+sauna NN 
+i FW 
+thank VB VBP 
+stylist NN 
+gospel NN 
+rings NNS 
+parenting NN 
+tablets NNS 
+jersey NN 
+babies NNS 
+visions NNS 
+flip-flopped JJ 
+modes NNS 
+swine NNS 
+united VBN 
+boots NNS 
+scam NN 
+hooks VBZ 
+exam NN 
+watery JJ 
+cheat VB VBP 
+tales NNS 
+contagious JJ 
+paramount JJ 
+glue NN 
+banana NN 
+choir NN 
+okay JJ 
+dad NN 
+sitter NN 
+tornado NN 
+chat VB 
+crank VB 
+intake NN 
+devoured VBN 
+associating VBG 
+debating VBG 
+bully NN 
+cop NN 
+tv NN 
+exhibiting VBG 
+pineapple NN 
+smile NN VBP 
+happiness NN 
+doll NN 
+budge VB 
+glee NN 
+wade VB 
+maps NNS 
+gentlemen NNS 
+wraps VBZ 
+statue NN 
+y'all PRP 
+carved VBN VBD 
+fade VB 
+ignores VBZ 
+vinyl NN 
+257 CD 
+fighters NNS 
+@ SYM 
+checked VBN VBD 
+shower VB 
+cracking VBG 
+brave JJ VB 
+mayonnaise NN 
+epic NN 
+unfold VB 
+10:45 CD 
+seafood NN 
+pad NN 
+angora NN 
+sweater NN 
+tasting NN 
+assists VBZ 
+streaming VBG 
+sauce NN 
+hug NN 
+pardon NN 
+absorbs VBZ 
+fist NN RB 
+prince NN 
+smack VBP RB 
+paradise NN 
+compliments NNS 
+whispered VBN 
+6.40 CD 
+forgiveness NN 
+imaginary JJ 
+revolutionize VB 
+jealous JJ 
+verse NN 
+couplets NNS 
+hilarious JJ 
+5000 CD 
+breezy JJ 
+slam-dunk VB 
+aw UH 
+betrayed VBN 
+museums NNS 
+nt RB 
+raptors NNS 
+discouragement NN 
+excuses NNS 
+cache NN 
+superb JJ 
+pal NN 
+blowing VBG 
+staring VBG 
+rangers NNS 
+6.95 CD 
+belly NN 
+fades NNS 
+deleting VBG 
+disciples NNS 
+sails NNS 
+exhibitors NNS 
+madness NN 
+lingo NN 
+condoms NNS 
+bless VB 
+zoom VB 
+halftime NN 
+originator NN 
+click NN 
+thanking VBG 
+ray NN 
+keys NNS 
+genuinely RB 
+hammer VB 
+rake NN 
+asses NNS 
+grapes NNS 
+rile VBP 
+3-0 CD 
+expo NN 
+cant NN 
+calmness NN 
+hop NN 
+tooth NN 
+2020 CD 
+annoying JJ 
