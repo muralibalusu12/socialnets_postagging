@@ -3,7 +3,7 @@ Code for the paper [Stylistic Variation in Part of Speech Tagging](https://www.c
 
 ## Dependencies
 - python 3.4 and above (2.7 should also work fine)
-- dynet 1.0 or above
+- dynet 1.0 (2.0 also works fine)
 - scipy
 - matplotlib
 - [emoji](https://pypi.org/project/emoji/)
