@@ -7,6 +7,7 @@ Code for the paper [Stylistic Variation in Part of Speech Tagging](https://www.c
 - scipy
 - matplotlib
 - [emoji](https://pypi.org/project/emoji/)
+- [Glove embeddings](https://github.com/stanfordnlp/GloVe)
 
 ## To run the baseline Bi-LSTM Tagger
 ```
@@ -18,12 +19,19 @@ python ensemble_train.py --no-ensemble
 python ensemble_train.py --just-ensemble
 ```
 
-## To run the Social Attention Tagger using the follow network with 4 basis models.
+## To run the Social Attention Tagger using the `Follow` network.
 ```
 python ensemble_train.py --network=follow --num-basis=4
 ```
+You can run the model using either, `Follow`, `Mention` or `Retweet` networks, with any number of basis models.
+
+## To run the Social Attention Tagger using all the three social networks.
+```
+python ensemble_train.py --use-all-networks --num-basis=4
+```
 
 Please feel free to [contact me](muraliraghubabu1994@gmail.com) if you have any questions on the code or the paper.
+
 
 If you use this code, please cite our paper:
 ```
