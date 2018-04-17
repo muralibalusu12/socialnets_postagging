@@ -1,4 +1,4 @@
-# socialnets_postagging
+# POS Tagging using Social Networks
 Code for the paper [Stylistic Variation in Part of Speech Tagging](https://www.cc.gatech.edu/~jeisenst/papers/social-attention-naacl-style-2018.pdf)
 
 ## Dependencies
