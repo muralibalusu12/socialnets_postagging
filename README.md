@@ -1,5 +1,5 @@
 # Part of Speech Tagging using Social Networks
-Code for the paper [Stylistic Variation in Part of Speech Tagging](https://www.cc.gatech.edu/~jeisenst/papers/social-attention-naacl-style-2018.pdf).      
+Code for the paper [Stylistic Variation in Part of Speech Tagging](https://arxiv.org/abs/1804.07331).      
 The dataset used in the paper is from [here](https://github.com/brendano/ark-tweet-nlp).
 
 ## Dependencies
@@ -41,7 +41,7 @@ If you use this code, please cite our paper:
   author = {Murali Raghu Babu Balusu and Taha Merghani and Jacob Eisenstein},
   booktitle = {Proceedings of {NAACL} workshop on stylistic variation},
   year = {2018},
-  url = {https://www.cc.gatech.edu/~jeisenst/papers/social-attention-naacl-style-2018.pdf}
+  url = {https://arxiv.org/pdf/1804.07331.pdf}
 }
 ```
 
