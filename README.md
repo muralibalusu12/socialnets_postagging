@@ -41,7 +41,8 @@ If you use this code, please cite our paper:
   author = {Murali Raghu Babu Balusu and Taha Merghani and Jacob Eisenstein},
   booktitle = {Proceedings of {NAACL} workshop on stylistic variation},
   year = {2018},
-  url = {https://arxiv.org/pdf/1804.07331.pdf}
+  url = {https://arxiv.org/pdf/1804.07331.pdf},
+  code = {https://github.com/bmurali1994/socialnets_postagging}
 }
 ```
 
